@@ -13,9 +13,9 @@
 
 - ⚡ Solved 400+ DSA problems on **LeetCode(Rating 1650+) | 3⭐ Coder on CodeChef**
 
-- 📫 Reach me at kk8594879@gmail.com **kk8594879@gmail.com**
+- 📫 Reach me at kk8594879@gmail.com **karanops.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QsKnNl4LinbLe8ZkOHktHipQtu2tJEMA/view?usp=sharing](https://drive.google.com/file/d/1QsKnNl4LinbLe8ZkOHktHipQtu2tJEMA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QsKnNl4LinbLe8ZkOHktHipQtu2tJEMA/view?usp=sharing](https://drive.google.com/file/d/1fwRRa7-ZH_vt4RQSvlTjjfA8hGdhkRDg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
