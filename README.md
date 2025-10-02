@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanops" alt="karanops" /></a> </p>
 
-- 🧑‍🎓 Currently a 3rd-year B.Tech CSE student at **IIEST Shibpur**
+- 🧑‍🎓 Currently a Final-year B.Tech CSE student at **IIEST Shibpur**
 
 - 🏆 Build With Us Hackathon - **1st Place | Contributor - GSSoC**
 
@@ -11,7 +11,7 @@
 
 - 📦 Passionate about creating full-stack AI-powered solutions using **MERN**
 
-- ⚡ Solved 400+ DSA problems on **LeetCode(Rating 1650+) | 3⭐ Coder on CodeChef**
+- ⚡ Solved 600+ DSA problems on **LeetCode(Rating 1650+) | 3⭐ Coder on CodeChef**
 
 - 📫 Reach me at kk8594879@gmail.com **karanops.dev@gmail.com**
 
