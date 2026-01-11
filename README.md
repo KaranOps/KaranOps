@@ -7,7 +7,7 @@
 
 - 🏆 Build With Us Hackathon - **1st Place | Contributor - GSSoC**
 
-- 🔭 Building an AI-driven multi-Agent medical assistant to process reports into structured medical summaries, reducing diagnosis preparation time [Treatly](https://github.com/KaranOps/Treatly)
+- 🔭 Building an AI-driven multi-Agent medical assistant to process reports into structured medical summaries, reducing diagnosis preparation time [Treatly](https://treatly-uthh.onrender.com/)
 
 - 📦 Passionate about creating full-stack AI-powered solutions using **MERN**
 
@@ -15,7 +15,7 @@
 
 - 📫 Reach me at karanops.dev@gmail.com **karanops.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Li0INA7CGUCmM9Ig69pKHidqsHs0Scor/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G7FXF-x4NZml7DaBzTw7LiGLe4qDikUY/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
