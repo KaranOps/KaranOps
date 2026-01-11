@@ -7,15 +7,15 @@
 
 - 🏆 Build With Us Hackathon - **1st Place | Contributor - GSSoC**
 
-- 🔭 Currently building an Agentic AI project using Google's Agent Development Kit (ADK) [Multi-Agent-Tutor-Bot](https://github.com/KaranOps/multi-agent-tutor-bot)
+- 🔭 Building an AI-driven multi-Agent medical assistant to process reports into structured medical summaries, reducing diagnosis preparation time [Treatly](https://github.com/KaranOps/Treatly)
 
 - 📦 Passionate about creating full-stack AI-powered solutions using **MERN**
 
-- ⚡ Solved 600+ DSA problems on **LeetCode(Rating 1650+) | 3⭐ Coder on CodeChef**
+- ⚡ Solved 600+ DSA problems on **LeetCode(Rating 1750+) | 3⭐ Coder on CodeChef**
 
 - 📫 Reach me at karanops.dev@gmail.com **karanops.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1fwRRa7-ZH_vt4RQSvlTjjfA8hGdhkRDg/view?usp=sharing](https://drive.google.com/file/d/1DELaT-pQ7kGlXpZ_V0rgDSgySE2PCQK8/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Li0INA7CGUCmM9Ig69pKHidqsHs0Scor/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
