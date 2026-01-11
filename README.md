@@ -9,7 +9,7 @@
 
 - 🔭 Building an AI-driven multi-Agent medical assistant to process reports into structured medical summaries, reducing diagnosis preparation time [Treatly](https://treatly-uthh.onrender.com/)
 
-- 📦 Passionate about creating full-stack AI-powered solutions using **MERN**
+- 📦 Passionate about creating full-stack AI-powered solutions using **MERN/Django/FastAPI**
 
 - ⚡ Solved 600+ DSA problems on **LeetCode(Rating 1750+) | 3⭐ Coder on CodeChef**
 
